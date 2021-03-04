@@ -1,0 +1,3 @@
+include ':accura_mrz'
+include ':app'
+rootProject.name = "AccuraMRZSDK"
